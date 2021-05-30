@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "7671635450",
+    "project_id": "bodymeasurement-adceb",
+    "storage_bucket": "bodymeasurement-adceb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7671635450:android:8221c387016a748971d843",
+        "android_client_info": {
+          "package_name": "com.mydomain.body_measurement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "7671635450-9ih8ckjknoalojbt768otdr523ek4018.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYMpGEwPmxZ_vQIESOaOVZwdX08blPwV8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "7671635450-9ih8ckjknoalojbt768otdr523ek4018.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
