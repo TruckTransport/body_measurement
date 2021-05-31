@@ -16,18 +16,18 @@ Future<void> main() async {
   await Firebase.initializeApp(
     options: Platform.isIOS || Platform.isMacOS
         ? FirebaseOptions(
-            appId: '1:297855924061:ios:c6de2b69b03a5be8',
-            apiKey: 'AIzaSyD_shO5mfO9lhy2TVWhfo1VUmARKlG4suk',
+            appId: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+            apiKey: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
             projectId: 'flutter-firebase-plugins',
-            messagingSenderId: '297855924061',
-            databaseURL: 'https://flutterfire-cd2f7.firebaseio.com',
+            messagingSenderId: 'xxxxxxxxx',
+            databaseURL: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxx',
           )
         : FirebaseOptions(
-            appId: '1:7671635450:android:8221c387016a748971d843',
-            apiKey: 'AIzaSyDYMpGEwPmxZ_vQIESOaOVZwdX08blPwV8',
-            storageBucket: 'bodymeasurement-adceb.appspot.com',
-            messagingSenderId: '7671635450',
-            projectId: 'bodymeasurement-adceb',
+            appId: '1xxxxxxxxxxxxxxxxxxxxxxxxxx',
+            apiKey: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+            storageBucket: 'xxxxxxxxxxxxxxxxxxxxxxxx',
+            messagingSenderId: 'xxxxxxxxxxxxxxx',
+            projectId: 'xxxxxxxxxxxxxxxxxxxx',
           ),
   );
 
